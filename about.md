@@ -16,7 +16,7 @@ Visit places,
 Read candelstick pattern of stock,
 Play Volleyball
 
-Never forgetting:  E=mc^2
+Never forgotten after Highschool:  E=mc^2
 
 
 ### Contact me
