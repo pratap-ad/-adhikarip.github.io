@@ -12,9 +12,11 @@ SAS,  FORTRAN,  R!
 
 
 Interests:
-Visit places
-Read candelstick pattern of stock
+Visit places,
+Read candelstick pattern of stock,
 Play Volleyball
+
+Never forgetting:  E=mc^2
 
 
 ### Contact me
