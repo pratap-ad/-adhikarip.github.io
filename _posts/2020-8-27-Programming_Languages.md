@@ -1,3 +1,4 @@
 I am introduced with the three programming languages so far; SAS, R  and FORTRAN. Before I start Masters in NC-State University, I was a base SAS certified programmer. 
-During my bachelor's degree, I had FORTRAN as a course requirement. Comparing to the other two langauges that I know, I think R is more user friendly. R does not 
-require any long steps to follow inorder get primary calculations and even on higher level statistical calculations using built in functions or using the different packages.
+During my bachelor's degree, I had FORTRAN as a course requirement. I have also tried to lear myself about the python and had executed very basics about it.
+
+Of course there are pros and cons on all of the programming languages.  I can't say much about the PYTHON, but what I have percept during those time is it is even more advance to R. Comparing to all of these three, FORTRAN, SAS and R langauges that I know, I think R is more user friendly. R does not require any long steps to follow inorder get primary calculations and even on higher level statistical analysis using built in  or using the different packages functions. I also think that R has growing future in data science.
