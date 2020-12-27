@@ -8,7 +8,7 @@ Hello, I am Pratap Adhikari, a Statistics Masters Student at North Carolina Stat
 
 ### More Information
 Programming languages I am introduced:
-SAS,  FORTRAN,  R!
+SAS,  FORTRAN,  R, MySql!
 
 
 Interests:
